@@ -1,0 +1,18 @@
+
+2 can be put anytime
+3 and the next player has to play for the card under the 3
+4 and you have to put the same color
+5 change the sens of roation of players
+6 skip the turn of the next player
+7 and the next player has to play below 7
+8 and you can play again
+9 nothing
+10 you clear the stack and can play again
+jack must be placed with a higher card
+queen nothing
+king nothing
+ace nothing
+
+if there is 4 same 4 in a row like 4 neight in a row you clear the stack
+
+if you can cut and complete a 4 in row with the cards on top of the stack then you can cut the turn of another player
